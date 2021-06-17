@@ -1,0 +1,54 @@
+
+#t1 {position: absolute; top:0px; left:200px; animation:down1 5s; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down1 {
+  from {top: -300px;}
+  to {top: 155px;}
+}
+
+#t2 {position: absolute; top:0px; left:1200px; animation:down2 13s; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down2 {
+  from {top: -300px;}
+  to {top: 250px;}
+}
+
+#t3 {position: absolute; top:0px; left:1000px; animation:down3 18s; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down3 {
+  from {top: -300px;}
+  to {top: 300px;}
+}
+
+#t4 {position: absolute; top:-800px; left:893px; animation:down4 20s ease-in; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down4 {
+  from {top: -300px;}
+  to {top: 230px;}
+}
+
+#t5 {position: absolute; top:0px; left:120px; animation:down5 11s ease-in; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down5 {
+  from {top: -300px;}
+  to {top: 170px;}
+}
+
+#t6 {position: absolute; top:-100px; left:1300px; animation:down6 16s ease-in; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down6 {
+  from {top: -300px;}
+  to {top: 300px;}
+}
+
+#t7 {position: absolute; top:-300px; left:230px; animation:down7 20s ease-in; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down7 {
+  from {top: -300px;}
+  to {top: 150px;}
+}
+
+#t8 {position: absolute; top:-1500px; left:700px; animation:down8 26s ease-in; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down8 {
+  from {top: -300px;}
+  to {top: 150px;}
+}
+
+#t9 {position: absolute; top:-1000px; left:100px; animation:down9 30s ease-in; animation-fill-mode: forwards; z-index: -1;}
+@keyframes down9 {
+  from {top: -300px;}
+  to {top: 150px;}
+}
